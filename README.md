@@ -16,6 +16,7 @@
 ```bash
 conda create -n hate python=3.12 -y
 ```
+ 
 
 ```bash
 conda activate hate
